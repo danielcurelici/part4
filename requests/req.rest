@@ -5,5 +5,5 @@ Content-Type: application/json
   "title": "New post",
   "author": "Daniel",
   "url": "http://localhost:3003/api/blogs",
-  "likes": 20
+  "likes": 30
 }
