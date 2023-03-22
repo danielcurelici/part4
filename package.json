@@ -1,0 +1,33 @@
+{
+  "name": "part4",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "proxy": "http://localhost:3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcurelici/part4.git"
+  },
+  "keywords": [
+    "Fullstack"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcurelici/part4/issues"
+  },
+  "homepage": "https://github.com/danielcurelici/part4#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
